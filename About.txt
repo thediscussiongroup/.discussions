@@ -1,0 +1,10 @@
+Name: Discussions
+Version: 1
+Description: The repo used to host GitHub Dicussions for this organization.
+History:
+ - Project started June 4, 2024.
+ - Version 1 completed June 4, 2024.
+Licensing: This project is provided under the terms of the Ritchey Permissive License v16.
+Authors: James Daniel Marrs Ritchey
+Notes:
+ - 
